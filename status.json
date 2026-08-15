@@ -5,14 +5,15 @@
  },
  "blind": {},
  "last_error": "",
- "open_issues": 16,
+ "open_issues": 17,
  "shape": 1,
- "t": 1786776382,
+ "t": 1786778032,
  "tasks": {
   "done": 4,
   "failed": 1,
+  "needs_human": 1,
   "withdrawn": 19
  },
- "version": "2026.08.15-4",
+ "version": "2026.08.15-5",
  "waiting_you": 0
 }
