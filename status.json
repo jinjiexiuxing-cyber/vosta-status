@@ -7,13 +7,13 @@
  "last_error": "",
  "open_issues": 17,
  "shape": 1,
- "t": 1786826681,
- "t_iso": "2026-08-15 20:44 UTC",
+ "t": 1786827778,
+ "t_iso": "2026-08-15 21:02 UTC",
  "tasks": {
   "done": 5,
-  "needs_human": 1,
+  "pending": 1,
   "withdrawn": 22
  },
- "version": "2026.08.15-18",
+ "version": "2026.08.15-21",
  "waiting_you": 0
 }
