@@ -7,11 +7,12 @@
  "last_error": "",
  "open_issues": 15,
  "shape": 1,
- "t": 1786756538,
+ "t": 1786762533,
  "tasks": {
   "done": 4,
+  "needs_human": 1,
   "withdrawn": 18
  },
- "version": "2026.08.15-2",
+ "version": "2026.08.15-3",
  "waiting_you": 0
 }
