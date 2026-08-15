@@ -1,0 +1,13 @@
+{
+ "alive": {
+  "daemon": true,
+  "web": true
+ },
+ "last_error": "",
+ "open_issues": 15,
+ "shape": 1,
+ "t": 1786753441,
+ "tasks": {},
+ "version": "2026.08.14-51",
+ "waiting_you": 0
+}
