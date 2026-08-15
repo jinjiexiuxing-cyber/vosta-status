@@ -3,11 +3,14 @@
   "daemon": true,
   "web": true
  },
+ "blind": {
+  "tasks": true
+ },
  "last_error": "",
  "open_issues": 15,
  "shape": 1,
- "t": 1786753441,
+ "t": 1786754523,
  "tasks": {},
- "version": "2026.08.14-51",
+ "version": "2026.08.15-1",
  "waiting_you": 0
 }
