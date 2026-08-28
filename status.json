@@ -8,13 +8,13 @@
  "open_issues": 124,
  "shape": 1,
  "stale_after": 3600,
- "t": 1787951790,
- "t_iso": "2026-08-28 21:16 UTC",
+ "t": 1787952917,
+ "t_iso": "2026-08-28 21:35 UTC",
  "tasks": {
   "done": 9,
   "needs_human": 29,
   "withdrawn": 40
  },
- "version": "2026.08.28-15",
+ "version": "2026.08.28-16",
  "waiting_you": 0
 }
