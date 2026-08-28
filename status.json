@@ -5,15 +5,16 @@
  },
  "blind": {},
  "last_error": "",
- "open_issues": 120,
+ "open_issues": 121,
  "shape": 1,
  "stale_after": 3600,
- "t": 1787906682,
- "t_iso": "2026-08-28 08:44 UTC",
+ "t": 1787907651,
+ "t_iso": "2026-08-28 09:00 UTC",
  "tasks": {
   "done": 9,
-  "withdrawn": 68
+  "needs_human": 28,
+  "withdrawn": 40
  },
- "version": "2026.08.28-12",
+ "version": "2026.08.28-13",
  "waiting_you": 0
 }
