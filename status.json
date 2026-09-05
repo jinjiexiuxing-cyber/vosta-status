@@ -5,14 +5,14 @@
  },
  "blind": {},
  "last_error": "",
- "open_issues": 185,
+ "open_issues": 187,
  "shape": 1,
  "stale_after": 3600,
- "t": 1788642993,
- "t_iso": "2026-09-05 21:16 UTC",
+ "t": 1788645063,
+ "t_iso": "2026-09-05 21:51 UTC",
  "tasks": {
   "done": 14,
-  "failed": 19,
+  "failed": 20,
   "needs_human": 8,
   "withdrawn": 59
  },
