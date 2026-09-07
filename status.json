@@ -8,11 +8,11 @@
  "open_issues": 200,
  "shape": 1,
  "stale_after": 3600,
- "t": 1788822819,
- "t_iso": "2026-09-07 23:13 UTC",
+ "t": 1788823760,
+ "t_iso": "2026-09-07 23:29 UTC",
  "tasks": {
   "done": 27,
-  "failed": 18,
+  "failed": 19,
   "needs_human": 11,
   "withdrawn": 71
  },
