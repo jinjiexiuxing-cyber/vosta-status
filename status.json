@@ -5,18 +5,18 @@
  },
  "blind": {},
  "last_error": "",
- "open_issues": 301,
+ "open_issues": 303,
  "shape": 1,
  "stale_after": 3600,
- "t": 1789113806,
- "t_iso": "2026-09-11 08:03 UTC",
+ "t": 1789116274,
+ "t_iso": "2026-09-11 08:44 UTC",
  "tasks": {
-  "done": 95,
-  "failed": 16,
+  "done": 96,
+  "failed": 18,
   "needs_human": 13,
-  "pending": 6,
+  "pending": 3,
   "withdrawn": 122
  },
- "version": "2026.09.11-19",
+ "version": "2026.09.11-20",
  "waiting_you": 0
 }
