@@ -8,14 +8,14 @@
  "open_issues": 353,
  "shape": 1,
  "stale_after": 3600,
- "t": 1789263068,
- "t_iso": "2026-09-13 01:31 UTC",
+ "t": 1789264097,
+ "t_iso": "2026-09-13 01:48 UTC",
  "tasks": {
   "done": 142,
   "failed": 3,
   "needs_human": 9,
   "withdrawn": 157
  },
- "version": "2026.09.13-5",
+ "version": "2026.09.13-6",
  "waiting_you": 0
 }
