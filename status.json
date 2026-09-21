@@ -5,11 +5,11 @@
  },
  "blind": {},
  "last_error": "",
- "open_issues": 422,
+ "open_issues": 423,
  "shape": 1,
  "stale_after": 3600,
- "t": 1790029403,
- "t_iso": "2026-09-21 22:23 UTC",
+ "t": 1790030592,
+ "t_iso": "2026-09-21 22:43 UTC",
  "tasks": {
   "done": 145,
   "withdrawn": 173
