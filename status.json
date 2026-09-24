@@ -5,16 +5,17 @@
  },
  "blind": {},
  "last_error": "",
- "open_issues": 353,
+ "open_issues": 349,
  "shape": 1,
  "stale_after": 3600,
- "t": 1790209150,
- "t_iso": "2026-09-24 00:19 UTC",
+ "t": 1790212378,
+ "t_iso": "2026-09-24 01:12 UTC",
  "tasks": {
-  "done": 157,
-  "failed": 1,
+  "done": 159,
+  "failed": 3,
+  "running": 1,
   "withdrawn": 176
  },
- "version": "2026.09.23-31",
- "waiting_you": 2
+ "version": "2026.09.24-3",
+ "waiting_you": 0
 }
